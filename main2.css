@@ -1,0 +1,30 @@
+body{
+background:url("wallpapers.jpg");    
+    
+    
+}
+
+.col{
+width:25%;
+height:500px;
+background:navy;
+display:inline-block;
+margin:30px 5px;
+box-sizing:border-box;
+border-radius: 5px;
+}
+
+.all{
+width:88%;
+margin:0px auto;
+    
+}
+
+.bottom{
+background:white;
+width:100%;
+height:250px;
+margin-top:250px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+}
